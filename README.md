@@ -8,4 +8,3 @@ Brief sentence about your main projects.
 
 ## Contact
 
-kasia@email.edu
